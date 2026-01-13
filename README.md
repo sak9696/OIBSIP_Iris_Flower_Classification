@@ -18,5 +18,5 @@ This project classifies Iris flower species using Machine Learning.
 - Scikit-learn
 
 ## 🙋‍♀️ Author
- Sakashi Jadhav
- Third Year Engineering Student | Data Analyst Intern
+ - Sakashi Jadhav
+ - Third Year Engineering Student | Data Analyst Intern
